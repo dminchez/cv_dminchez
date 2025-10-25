@@ -1,3 +1,5 @@
+OJO: Se debe estar en el directorio del  cv_dminchez
+
 git config --global user.name "dminchez"
 
 git config --global user.email "danyminchez@hotmail.com"
@@ -7,7 +9,8 @@ git config --global --list
 git push
 git add .
 
-git commit -m "dato4"
+git commit -m "Actualización 25.10.2025"
+
 
 
 
