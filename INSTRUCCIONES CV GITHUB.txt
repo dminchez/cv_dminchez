@@ -1,0 +1,13 @@
+git config --global user.name "dminchez"
+
+git config --global user.email "danyminchez@hotmail.com"
+
+git config --global --list
+
+git push
+git add .
+
+git commit -m "dato4"
+
+
+
